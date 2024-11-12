@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asutosh/MLops-Major/mlruns/0/1c0920df58844955bda5bbab889016f5/artifacts
+end_time: 1731395968247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c0920df58844955bda5bbab889016f5
+run_name: Logistic Regression
+run_uuid: 1c0920df58844955bda5bbab889016f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395968221
+status: 3
+tags: []
+user_id: asutosh
